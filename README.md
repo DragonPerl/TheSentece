@@ -1,5 +1,5 @@
 # TheSentece
 Building a sentence with 5 People
 
-Ich Idiot Tu
+Ich Idiot Tu Was Machen.
 
